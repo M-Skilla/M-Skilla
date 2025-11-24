@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marko Skilla</h1>
 <h3 align="center">A curious mind, always building, always learning.</h3>
 
-- 🔭 I’m currently working on [nexus](https://github.com/M-Skilla/nexus)
-
 - 🌱 I’m currently learning **Blockchain, AI/ML**
 
 - 💬 Ask me about **NextJS, React, Express, and Solidity**
